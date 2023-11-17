@@ -12,7 +12,7 @@
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=carolbarbosa101&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=808080&text_color=696969&bg_color=000000" alt="Tauan Sousa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dev1att&show_icons=true&count_private=true&hide_border=true&title_color=A9A9A9&icon_color=808080&text_color=696969&bg_color=000000" alt="Tauan Sousa github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev1att&layout=compact&hide_border=true&title_color=808080&text_color=696969&bg_color=000000" />
 </div>
 
